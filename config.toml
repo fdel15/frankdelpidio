@@ -1,0 +1,61 @@
+baseurl = "https://www.frankdelpid.io/"
+title = "From the Cardano Frontier"
+copyright = "Copyright &copy; 2021 - Frank DelPidio"
+canonifyurls = true
+theme = "hugo-kiera"
+
+paginate = 5
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+#disqusShortname = "myShortName"
+
+# Note: to disable a social network icon delete or comment out the corresponding line
+[author]
+    name = "Frank DelPidio"
+    github = "fdel15"
+    #gitlab = "username"
+    #linkedin = "username"
+    #facebook = "username"
+    twitter = "fdel15"
+    #instagram = "username"
+    #stackoverflow = "username"
+    #youtube = "user/username" # or channel/channelname
+    #devto = "username"
+
+[params]
+    tagline = "A software engineer's jounrey from Byron to Voltaire and everything in between"
+    description = "Frank DelPidio is a software engineer and Cardano enthusiast. This blog contains technical articles, tutorials, and opinions about the Cardano ecosystem."
+    #images = [""] #This is used for opengraph/twitter cards.
+    customCSS = []  #Optional Customised CSS
+    #favicon = ""
+    #utterancesRepo = "username/repository"
+    #utterancesIssueTerm = "pathname"
+    #homepageLength = 10
+    #commentAutoload = true  #This mean reader don't need click, disqus comment autoload
+    #mathjax = true #Enable display of mathematics using mathjax (LaTeX syntax)
+    #katex = true #Enable display of mathematics using katex (Faster LaTeX rendering)
+    #google_fonts = ["Staatliches"] # Adds additional google fonts
+    disableDarkModeCSS = true # disables css style for users using dark-mode
+
+# uncomment to enable the Tags link on the main toolbar
+#  [[menu.main]]
+#    identifier = "tags"
+#    name = "Tags"
+#    url = "/tags"
+#    weight = 1
+
+# uncomment to enable the Categories link on the main toolbar
+#  [[menu.main]]
+#    identifier = "categories"
+#    name = "Categories"
+#    url = "/categories"
+#    weight = 1
+
+ [[menu.main]]
+   identifier = "about"
+   name = "About"
+   url = "/about"
+   weight = 1
