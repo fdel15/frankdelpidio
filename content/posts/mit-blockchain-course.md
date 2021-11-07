@@ -41,17 +41,17 @@ Blockchain technology could be the database of the world's global currency one d
     
 I think I would go back to the checklist I added in the notes of Week 21:
 
-• What is the value creation proposition and ‘pain point’ is being solved?
-• Which transactions and data needs recording?
-• Which multiple stakeholders need write and read access to ledgers?
-• Which costs of verification or networking can be reduced?
-• What are competitors doing to address similar value propositions or markets?
-• Why are append only logs and multiple party consensus the best solution?
-• If permissionless applications, why is native token the best solution?
-• What are tradeoffs of scalability, performance, privacy, security, & coordination
-• Can permissioned blockchain or traditional database adequately address use case?
-• How can broad adoption be realized?
-• What is the customer interface and how is it better than current interface?
+- What is the value creation proposition and ‘pain point’ is being solved?
+- Which transactions and data needs recording?
+- Which multiple stakeholders need write and read access to ledgers?
+- Which costs of verification or networking can be reduced?
+- What are competitors doing to address similar value propositions or markets?
+- Why are append only logs and multiple party consensus the best solution?
+- If permissionless applications, why is native token the best solution?
+- What are tradeoffs of scalability, performance, privacy, security, & coordination
+- Can permissioned blockchain or traditional database adequately address use case?
+- How can broad adoption be realized?
+- What is the customer interface and how is it better than current interface?
 
 And add the following:
 
